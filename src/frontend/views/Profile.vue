@@ -6,7 +6,7 @@
           class="text-primary q-display-1 loyalty__heading--name"
           data-test="loyalty-name"
         >
-          {{ fullName }}
+          {{ fullName }} -- COOL !!
         </div>
         <div class="loyalty__heading--tier">
           <div
